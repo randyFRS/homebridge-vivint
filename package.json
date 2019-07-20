@@ -19,13 +19,13 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "debounce-promise": "^3.1.0",
-    "isobject": "^3.0.1",
-    "pubnub": "^4.21.2",
-    "request": "^2.87.0",
-    "request-promise-native": "^1.0.5"
+    "debounce-promise": "^3.1.2",
+    "isobject": "^4.0.0",
+    "pubnub": "^4.24.3",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
   },
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^6.2.0"
   }
 }
